@@ -1,0 +1,1834 @@
+[
+  {
+    "rank":"World",
+    "country":"8,232,000,000",
+    "population":100.0,
+    "percentage":null,
+    "date":"UN projection",
+    "source":""
+  },
+  {
+    "rank":"India",
+    "country":"1,417,492,000",
+    "population":17.3,
+    "percentage":null,
+    "date":"Official projection",
+    "source":""
+  },
+  {
+    "rank":"China",
+    "country":"1,408,280,000",
+    "population":17.1,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"United States",
+    "country":"340,110,988",
+    "population":4.1,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Indonesia",
+    "country":"284,438,782",
+    "population":3.5,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Pakistan",
+    "country":"241,499,431",
+    "population":2.9,
+    "percentage":null,
+    "date":"2023 census result",
+    "source":""
+  },
+  {
+    "rank":"Nigeria",
+    "country":"223,800,000",
+    "population":2.7,
+    "percentage":null,
+    "date":"Official projection",
+    "source":""
+  },
+  {
+    "rank":"Brazil",
+    "country":"213,421,037",
+    "population":2.6,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Bangladesh",
+    "country":"169,828,911",
+    "population":2.1,
+    "percentage":null,
+    "date":"2022 census result",
+    "source":""
+  },
+  {
+    "rank":"Russia",
+    "country":"146,028,325",
+    "population":1.8,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Mexico",
+    "country":"130,760,049",
+    "population":1.6,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"Japan",
+    "country":"123,190,000",
+    "population":1.5,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Philippines",
+    "country":"114,123,600",
+    "population":1.4,
+    "percentage":null,
+    "date":"Official projection",
+    "source":""
+  },
+  {
+    "rank":"Democratic Republic of the Congo",
+    "country":"112,832,000",
+    "population":1.4,
+    "percentage":null,
+    "date":"UN projection",
+    "source":""
+  },
+  {
+    "rank":"Ethiopia",
+    "country":"111,652,998",
+    "population":1.4,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Egypt",
+    "country":"107,271,260",
+    "population":1.3,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Vietnam",
+    "country":"101,343,800",
+    "population":1.2,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Iran",
+    "country":"85,961,000",
+    "population":1.0,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Turkey",
+    "country":"85,664,944",
+    "population":1.0,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Germany",
+    "country":"83,491,249",
+    "population":1.0,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"United Kingdom",
+    "country":"69,281,437",
+    "population":0.8,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"France",
+    "country":"68,736,000",
+    "population":0.8,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Tanzania",
+    "country":"68,153,004",
+    "population":0.8,
+    "percentage":null,
+    "date":"Official projection",
+    "source":""
+  },
+  {
+    "rank":"Thailand",
+    "country":"65,826,149",
+    "population":0.8,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"South Africa",
+    "country":"63,100,945",
+    "population":0.8,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Italy",
+    "country":"58,925,596",
+    "population":0.7,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Kenya",
+    "country":"53,330,978",
+    "population":0.6,
+    "percentage":null,
+    "date":"Official projection",
+    "source":""
+  },
+  {
+    "rank":"Colombia",
+    "country":"53,057,212",
+    "population":0.6,
+    "percentage":null,
+    "date":"Official projection",
+    "source":""
+  },
+  {
+    "rank":"Sudan",
+    "country":"51,662,000",
+    "population":0.6,
+    "percentage":null,
+    "date":"UN projection",
+    "source":""
+  },
+  {
+    "rank":"Myanmar",
+    "country":"51,316,756",
+    "population":0.6,
+    "percentage":null,
+    "date":"Preliminary census results",
+    "source":""
+  },
+  {
+    "rank":"South Korea",
+    "country":"51,143,421",
+    "population":0.6,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Spain",
+    "country":"49,442,844",
+    "population":0.6,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"Algeria",
+    "country":"47,400,000",
+    "population":0.6,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Argentina",
+    "country":"46,387,098",
+    "population":0.6,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Iraq",
+    "country":"46,118,793",
+    "population":0.6,
+    "percentage":null,
+    "date":"2024 census result",
+    "source":""
+  },
+  {
+    "rank":"Uganda",
+    "country":"45,905,417",
+    "population":0.6,
+    "percentage":null,
+    "date":"2024 census result",
+    "source":""
+  },
+  {
+    "rank":"Afghanistan",
+    "country":"43,844,000",
+    "population":0.5,
+    "percentage":null,
+    "date":"UN projection(see note)",
+    "source":""
+  },
+  {
+    "rank":"Canada",
+    "country":"41,651,653",
+    "population":0.5,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"Uzbekistan",
+    "country":"38,069,116",
+    "population":0.5,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Poland",
+    "country":"37,376,000",
+    "population":0.5,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Morocco",
+    "country":"36,828,330",
+    "population":0.4,
+    "percentage":null,
+    "date":"2024 census result",
+    "source":""
+  },
+  {
+    "rank":"Angola",
+    "country":"36,604,681",
+    "population":0.4,
+    "percentage":null,
+    "date":"2024 census result",
+    "source":""
+  },
+  {
+    "rank":"Saudi Arabia",
+    "country":"35,300,280",
+    "population":0.4,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Peru",
+    "country":"34,350,244",
+    "population":0.4,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Malaysia",
+    "country":"34,281,100",
+    "population":0.4,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"Mozambique",
+    "country":"34,090,466",
+    "population":0.4,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Ghana",
+    "country":"33,742,380",
+    "population":0.4,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Ukraine",
+    "country":"32,862,000",
+    "population":0.4,
+    "percentage":null,
+    "date":"IMF estimate",
+    "source":""
+  },
+  {
+    "rank":"Yemen",
+    "country":"32,684,503",
+    "population":0.4,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Madagascar",
+    "country":"31,727,042",
+    "population":0.4,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Ivory Coast",
+    "country":"31,719,275",
+    "population":0.4,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Nepal",
+    "country":"29,911,840",
+    "population":0.4,
+    "percentage":2025.0,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Cameroon",
+    "country":"29,442,327",
+    "population":0.4,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Venezuela",
+    "country":"28,517,000",
+    "population":0.3,
+    "percentage":null,
+    "date":"UN projection",
+    "source":""
+  },
+  {
+    "rank":"Australia",
+    "country":"27,536,874",
+    "population":0.3,
+    "percentage":null,
+    "date":"Official projection",
+    "source":""
+  },
+  {
+    "rank":"Niger",
+    "country":"26,312,034",
+    "population":0.3,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Syria",
+    "country":"26,019,711",
+    "population":0.3,
+    "percentage":null,
+    "date":"Monthly estimate",
+    "source":""
+  },
+  {
+    "rank":"North Korea",
+    "country":"25,950,000",
+    "population":0.3,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Burkina Faso",
+    "country":"24,070,553",
+    "population":0.3,
+    "percentage":null,
+    "date":"Official projection",
+    "source":""
+  },
+  {
+    "rank":"Taiwan",
+    "country":"23,317,031",
+    "population":0.3,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Mali",
+    "country":"22,395,489",
+    "population":0.3,
+    "percentage":null,
+    "date":"2022 census result",
+    "source":""
+  },
+  {
+    "rank":"Sri Lanka",
+    "country":"21,763,170",
+    "population":0.3,
+    "percentage":null,
+    "date":"Preliminary census result",
+    "source":""
+  },
+  {
+    "rank":"Malawi",
+    "country":"20,734,262",
+    "population":0.3,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Kazakhstan",
+    "country":"20,464,077",
+    "population":0.2,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Chile",
+    "country":"20,206,953",
+    "population":0.2,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Zambia",
+    "country":"19,693,423",
+    "population":0.2,
+    "percentage":null,
+    "date":"2022 census result",
+    "source":""
+  },
+  {
+    "rank":"Somalia",
+    "country":"19,655,000",
+    "population":0.2,
+    "percentage":null,
+    "date":"UN projection",
+    "source":""
+  },
+  {
+    "rank":"Chad",
+    "country":"19,340,757",
+    "population":0.2,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Romania",
+    "country":"19,036,031",
+    "population":0.2,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Senegal",
+    "country":"18,593,258",
+    "population":0.2,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Netherlands",
+    "country":"18,130,662",
+    "population":0.2,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Ecuador",
+    "country":"18,103,660",
+    "population":0.2,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Guatemala",
+    "country":"18,079,810",
+    "population":0.2,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Cambodia",
+    "country":"17,577,760",
+    "population":0.2,
+    "percentage":null,
+    "date":"Official projection",
+    "source":""
+  },
+  {
+    "rank":"Zimbabwe",
+    "country":"17,073,087",
+    "population":0.2,
+    "percentage":null,
+    "date":"Official projection",
+    "source":""
+  },
+  {
+    "rank":"South Sudan",
+    "country":"15,786,898",
+    "population":0.2,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Guinea",
+    "country":"14,363,931",
+    "population":0.2,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Rwanda",
+    "country":"14,104,969",
+    "population":0.2,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Benin",
+    "country":"13,224,860",
+    "population":0.2,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Burundi",
+    "country":"12,332,788",
+    "population":0.2,
+    "percentage":null,
+    "date":"Preliminary census result",
+    "source":""
+  },
+  {
+    "rank":"Tunisia",
+    "country":"11,972,169",
+    "population":0.1,
+    "percentage":null,
+    "date":"2024 census result",
+    "source":""
+  },
+  {
+    "rank":"Belgium",
+    "country":"11,917,402",
+    "population":0.1,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Haiti",
+    "country":"11,867,032",
+    "population":0.1,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Jordan",
+    "country":"11,734,000",
+    "population":0.1,
+    "percentage":null,
+    "date":"National estimate",
+    "source":""
+  },
+  {
+    "rank":"Bolivia",
+    "country":"11,365,333",
+    "population":0.1,
+    "percentage":null,
+    "date":"2024 census result",
+    "source":""
+  },
+  {
+    "rank":"United Arab Emirates",
+    "country":"11,294,243",
+    "population":0.1,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Czech Republic",
+    "country":"10,882,341",
+    "population":0.1,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Dominican Republic",
+    "country":"10,771,504",
+    "population":0.1,
+    "percentage":null,
+    "date":"2022 census result",
+    "source":""
+  },
+  {
+    "rank":"Portugal",
+    "country":"10,749,635",
+    "population":0.1,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Sweden",
+    "country":"10,610,485",
+    "population":0.1,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Tajikistan",
+    "country":"10,499,000",
+    "population":0.1,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Greece",
+    "country":"10,400,720",
+    "population":0.1,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Azerbaijan",
+    "country":"10,253,647",
+    "population":0.1,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Papua New Guinea",
+    "country":"10,185,363",
+    "population":0.1,
+    "percentage":null,
+    "date":"2024 census result",
+    "source":""
+  },
+  {
+    "rank":"Israel",
+    "country":"10,147,200",
+    "population":0.1,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Honduras",
+    "country":"9,892,632",
+    "population":0.1,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Cuba",
+    "country":"9,748,007",
+    "population":0.1,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Hungary",
+    "country":"9,539,502",
+    "population":0.1,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Austria",
+    "country":"9,216,459",
+    "population":0.1,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"Belarus",
+    "country":"9,109,280",
+    "population":0.1,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Switzerland",
+    "country":"9,104,063",
+    "population":0.1,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"Sierra Leone",
+    "country":"9,077,691",
+    "population":0.1,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Togo",
+    "country":"8,095,498",
+    "population":0.1,
+    "percentage":null,
+    "date":"2022 census result",
+    "source":""
+  },
+  {
+    "rank":"Laos",
+    "country":"7,647,000",
+    "population":0.09,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Hong Kong(China)",
+    "country":"7,527,500",
+    "population":0.09,
+    "percentage":null,
+    "date":"National estimate",
+    "source":""
+  },
+  {
+    "rank":"Libya",
+    "country":"7,459,000",
+    "population":0.09,
+    "percentage":null,
+    "date":"UN projection",
+    "source":""
+  },
+  {
+    "rank":"Kyrgyzstan",
+    "country":"7,281,800",
+    "population":0.09,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Turkmenistan",
+    "country":"7,057,841",
+    "population":0.09,
+    "percentage":null,
+    "date":"2022 census result",
+    "source":""
+  },
+  {
+    "rank":"Nicaragua",
+    "country":"6,803,886",
+    "population":0.08,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Serbia",
+    "country":"6,567,783",
+    "population":0.08,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Central African Republic",
+    "country":"6,470,307",
+    "population":0.08,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Bulgaria",
+    "country":"6,437,360",
+    "population":0.08,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Republic of the Congo",
+    "country":"6,142,180",
+    "population":0.07,
+    "percentage":null,
+    "date":"2023 census result",
+    "source":""
+  },
+  {
+    "rank":"Singapore",
+    "country":"6,110,200",
+    "population":0.07,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Paraguay",
+    "country":"6,109,644",
+    "population":0.07,
+    "percentage":null,
+    "date":"2022 census result",
+    "source":""
+  },
+  {
+    "rank":"El Salvador",
+    "country":"6,029,976",
+    "population":0.07,
+    "percentage":null,
+    "date":"2024 census result",
+    "source":""
+  },
+  {
+    "rank":"Denmark",
+    "country":"6,019,866",
+    "population":0.07,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Finland",
+    "country":"5,655,715",
+    "population":0.07,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Norway",
+    "country":"5,618,354",
+    "population":0.07,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"Lebanon",
+    "country":"5,490,000",
+    "population":0.07,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Palestine",
+    "country":"5,483,450",
+    "population":0.07,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Ireland",
+    "country":"5,458,600",
+    "population":0.07,
+    "percentage":null,
+    "date":"National estimate",
+    "source":""
+  },
+  {
+    "rank":"Slovakia",
+    "country":"5,413,191",
+    "population":0.07,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"Oman",
+    "country":"5,356,019",
+    "population":0.07,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"New Zealand",
+    "country":"5,334,200",
+    "population":0.06,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"Liberia",
+    "country":"5,248,621",
+    "population":0.06,
+    "percentage":null,
+    "date":"2022 census result",
+    "source":""
+  },
+  {
+    "rank":"Costa Rica",
+    "country":"5,191,824",
+    "population":0.06,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Mauritania",
+    "country":"4,927,532",
+    "population":0.06,
+    "percentage":null,
+    "date":"2023 census result",
+    "source":""
+  },
+  {
+    "rank":"Kuwait",
+    "country":"4,881,254",
+    "population":0.06,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Panama",
+    "country":"4,064,780",
+    "population":0.05,
+    "percentage":null,
+    "date":"2023 census result",
+    "source":""
+  },
+  {
+    "rank":"Croatia",
+    "country":"3,866,233",
+    "population":0.05,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Georgia",
+    "country":"3,704,500",
+    "population":0.05,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Eritrea",
+    "country":"3,607,000",
+    "population":0.04,
+    "percentage":null,
+    "date":"UN projection(see note)",
+    "source":""
+  },
+  {
+    "rank":"Mongolia",
+    "country":"3,544,835",
+    "population":0.04,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Uruguay",
+    "country":"3,499,451",
+    "population":0.04,
+    "percentage":null,
+    "date":"2023 Census",
+    "source":""
+  },
+  {
+    "rank":"Bosnia and Herzegovina",
+    "country":"3,422,000",
+    "population":0.04,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Puerto Rico(US)",
+    "country":"3,203,295",
+    "population":0.04,
+    "percentage":null,
+    "date":"Annual projection",
+    "source":""
+  },
+  {
+    "rank":"Qatar",
+    "country":"3,173,024",
+    "population":0.04,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Armenia",
+    "country":"3,076,200",
+    "population":0.04,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Namibia",
+    "country":"3,022,401",
+    "population":0.04,
+    "percentage":null,
+    "date":"2023 Census",
+    "source":""
+  },
+  {
+    "rank":"Lithuania",
+    "country":"2,895,826",
+    "population":0.04,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Jamaica",
+    "country":"2,774,538",
+    "population":0.03,
+    "percentage":null,
+    "date":"2022 census result",
+    "source":""
+  },
+  {
+    "rank":"Gabon",
+    "country":"2,469,296",
+    "population":0.03,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Gambia",
+    "country":"2,422,712",
+    "population":0.03,
+    "percentage":null,
+    "date":"Preliminary census results",
+    "source":""
+  },
+  {
+    "rank":"Moldova",
+    "country":"2,381,300",
+    "population":0.03,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Albania",
+    "country":"2,363,314",
+    "population":0.03,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Botswana",
+    "country":"2,359,609",
+    "population":0.03,
+    "percentage":null,
+    "date":"2022 census result",
+    "source":""
+  },
+  {
+    "rank":"Slovenia",
+    "country":"2,130,986",
+    "population":0.03,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"Lesotho",
+    "country":"2,116,427",
+    "population":0.03,
+    "percentage":2024.0,
+    "date":"Official survey",
+    "source":""
+  },
+  {
+    "rank":"Latvia",
+    "country":"1,827,800",
+    "population":0.02,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"North Macedonia",
+    "country":"1,822,612",
+    "population":0.02,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Guinea-Bissau",
+    "country":"1,781,308",
+    "population":0.02,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Equatorial Guinea",
+    "country":"1,668,768",
+    "population":0.02,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Bahrain",
+    "country":"1,594,654",
+    "population":0.02,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Kosovo",
+    "country":"1,585,566",
+    "population":0.02,
+    "percentage":null,
+    "date":"2024 national census",
+    "source":""
+  },
+  {
+    "rank":"Timor-Leste",
+    "country":"1,391,221",
+    "population":0.02,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Estonia",
+    "country":"1,369,995",
+    "population":0.02,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Trinidad and Tobago",
+    "country":"1,367,764",
+    "population":0.02,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Mauritius",
+    "country":"1,243,741",
+    "population":0.02,
+    "percentage":null,
+    "date":"National estimate",
+    "source":""
+  },
+  {
+    "rank":"Eswatini",
+    "country":"1,235,549",
+    "population":0.02,
+    "percentage":null,
+    "date":"Official projection",
+    "source":""
+  },
+  {
+    "rank":"Djibouti",
+    "country":"1,066,809",
+    "population":0.01,
+    "percentage":null,
+    "date":"2024 census result",
+    "source":""
+  },
+  {
+    "rank":"Cyprus",
+    "country":"966,400",
+    "population":0.01,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Comoros",
+    "country":"919,901",
+    "population":0.01,
+    "percentage":2025.0,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Fiji",
+    "country":"900,869",
+    "population":0.01,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Bhutan",
+    "country":"784,043",
+    "population":0.01,
+    "percentage":2025.0,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Guyana",
+    "country":"772,975",
+    "population":0.009,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Solomon Islands",
+    "country":"750,325",
+    "population":0.009,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Macau(China)",
+    "country":"686,600",
+    "population":0.008,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"Luxembourg",
+    "country":"681,973",
+    "population":0.008,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Montenegro",
+    "country":"623,327",
+    "population":0.008,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Suriname",
+    "country":"616,500",
+    "population":0.008,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Western Sahara(disputed)",
+    "country":"600,904",
+    "population":0.007,
+    "percentage":null,
+    "date":"UN projection",
+    "source":""
+  },
+  {
+    "rank":"Malta",
+    "country":"574,250",
+    "population":0.007,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Maldives",
+    "country":"515,132",
+    "population":0.006,
+    "percentage":null,
+    "date":"2022 census result",
+    "source":""
+  },
+  {
+    "rank":"Cape Verde",
+    "country":"491,233",
+    "population":0.006,
+    "percentage":null,
+    "date":"2021 census result",
+    "source":""
+  },
+  {
+    "rank":"Northern Cyprus",
+    "country":"476,214",
+    "population":0.006,
+    "percentage":null,
+    "date":"Official projection",
+    "source":""
+  },
+  {
+    "rank":"Brunei",
+    "country":"455,500",
+    "population":0.006,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Belize",
+    "country":"417,634",
+    "population":0.005,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Bahamas",
+    "country":"398,165",
+    "population":0.005,
+    "percentage":null,
+    "date":"2022 census result",
+    "source":""
+  },
+  {
+    "rank":"Iceland",
+    "country":"393,160",
+    "population":0.005,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"Transnistria",
+    "country":"367,776",
+    "population":0.004,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Vanuatu",
+    "country":"321,409",
+    "population":0.004,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"French Polynesia(France)",
+    "country":"279,500",
+    "population":0.003,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Barbados",
+    "country":"267,800",
+    "population":0.003,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"New Caledonia(France)",
+    "country":"264,596",
+    "population":0.003,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Abkhazia",
+    "country":"244,236",
+    "population":0.003,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "country":"209,607",
+    "population":0.003,
+    "percentage":2024.0,
+    "date":"Preliminary census result",
+    "source":""
+  },
+  {
+    "rank":"Samoa",
+    "country":"205,557",
+    "population":0.003,
+    "percentage":null,
+    "date":"2021 Census",
+    "source":""
+  },
+  {
+    "rank":"Saint Lucia",
+    "country":"184,100",
+    "population":0.002,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Cura\u00e7ao(Netherlands)",
+    "country":"156,115",
+    "population":0.002,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Guam(US)",
+    "country":"153,836",
+    "population":0.002,
+    "percentage":null,
+    "date":"2020 census result",
+    "source":""
+  },
+  {
+    "rank":"Seychelles",
+    "country":"122,729",
+    "population":0.001,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Kiribati",
+    "country":"120,740",
+    "population":0.001,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Saint Vincent and the Grenadines",
+    "country":"110,872",
+    "population":0.001,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Grenada",
+    "country":"109,021",
+    "population":0.001,
+    "percentage":2021.0,
+    "date":"Preliminary Census results",
+    "source":""
+  },
+  {
+    "rank":"Aruba(Netherlands)",
+    "country":"108,880",
+    "population":0.001,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Micronesia",
+    "country":"105,564",
+    "population":0.001,
+    "percentage":2025.0,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Antigua and Barbuda",
+    "country":"103,603",
+    "population":0.001,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Jersey(UK)",
+    "country":"103,267",
+    "population":0.001,
+    "percentage":null,
+    "date":"2021 census result",
+    "source":""
+  },
+  {
+    "rank":"Tonga",
+    "country":"100,179",
+    "population":0.001,
+    "percentage":null,
+    "date":"2021 census result",
+    "source":""
+  },
+  {
+    "rank":"Andorra",
+    "country":"88,881",
+    "population":0.001,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"U.S. Virgin Islands(US)",
+    "country":"87,146",
+    "population":0.001,
+    "percentage":null,
+    "date":"2020 census result",
+    "source":""
+  },
+  {
+    "rank":"Cayman Islands(UK)",
+    "country":"84,738",
+    "population":0.001,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Isle of Man(UK)",
+    "country":"84,530",
+    "population":0.001,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Dominica",
+    "country":"67,408",
+    "population":0.0008,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Guernsey(UK)",
+    "country":"64,781",
+    "population":0.0008,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"Bermuda(UK)",
+    "country":"64,055",
+    "population":0.0008,
+    "percentage":null,
+    "date":"National annual projection",
+    "source":""
+  },
+  {
+    "rank":"Greenland(Denmark)",
+    "country":"56,542",
+    "population":0.0007,
+    "percentage":null,
+    "date":"National quarterly estimate",
+    "source":""
+  },
+  {
+    "rank":"South Ossetia",
+    "country":"56,520",
+    "population":0.0007,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Faroe Islands(Denmark)",
+    "country":"54,858",
+    "population":0.0007,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Saint Kitts and Nevis",
+    "country":"51,320",
+    "population":0.0006,
+    "percentage":2022.0,
+    "date":"2022 census result",
+    "source":""
+  },
+  {
+    "rank":"Turks and Caicos Islands(UK)",
+    "country":"50,828",
+    "population":0.0006,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"American Samoa(US)",
+    "country":"49,710",
+    "population":0.0006,
+    "percentage":null,
+    "date":"2020 census result",
+    "source":""
+  },
+  {
+    "rank":"Northern Mariana Islands(US)",
+    "country":"47,329",
+    "population":0.0006,
+    "percentage":null,
+    "date":"2020 census result",
+    "source":""
+  },
+  {
+    "rank":"Marshall Islands",
+    "country":"42,418",
+    "population":0.0005,
+    "percentage":null,
+    "date":"2021 Census",
+    "source":""
+  },
+  {
+    "rank":"Sint Maarten(Netherlands)",
+    "country":"41,349",
+    "population":0.0005,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Liechtenstein",
+    "country":"40,886",
+    "population":0.0005,
+    "percentage":null,
+    "date":"National estimate",
+    "source":""
+  },
+  {
+    "rank":"British Virgin Islands(UK)",
+    "country":"39,471",
+    "population":0.0005,
+    "percentage":null,
+    "date":"UN projection",
+    "source":""
+  },
+  {
+    "rank":"Monaco",
+    "country":"38,423",
+    "population":0.0005,
+    "percentage":null,
+    "date":"Census",
+    "source":""
+  },
+  {
+    "rank":"Gibraltar(UK)",
+    "country":"38,196",
+    "population":0.0005,
+    "percentage":null,
+    "date":"Preliminary census results",
+    "source":""
+  },
+  {
+    "rank":"San Marino",
+    "country":"34,154",
+    "population":0.0004,
+    "percentage":null,
+    "date":"Monthly national estimate",
+    "source":""
+  },
+  {
+    "rank":"Saint Martin(France)",
+    "country":"31,496",
+    "population":0.0004,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Palau",
+    "country":"16,733",
+    "population":0.0002,
+    "percentage":null,
+    "date":"2021 Census",
+    "source":""
+  },
+  {
+    "rank":"Anguilla(UK)",
+    "country":"16,010",
+    "population":0.0002,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  },
+  {
+    "rank":"Cook Islands(New Zealand)",
+    "country":"15,040",
+    "population":0.0002,
+    "percentage":null,
+    "date":"2021 Census",
+    "source":""
+  },
+  {
+    "rank":"Nauru",
+    "country":"11,680",
+    "population":0.0001,
+    "percentage":null,
+    "date":"2021 Census",
+    "source":""
+  },
+  {
+    "rank":"Wallis and Futuna(France)",
+    "country":"11,620",
+    "population":0.0001,
+    "percentage":null,
+    "date":"2023 Census",
+    "source":""
+  },
+  {
+    "rank":"Tuvalu",
+    "country":"10,643",
+    "population":0.0001,
+    "percentage":null,
+    "date":"2022 Census",
+    "source":""
+  },
+  {
+    "rank":"Saint Barth\u00e9lemy(France)",
+    "country":"10,562",
+    "population":0.0001,
+    "percentage":null,
+    "date":"Official estimate",
+    "source":""
+  }
+]
