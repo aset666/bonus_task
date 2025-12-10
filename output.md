@@ -1,4 +1,3 @@
-1)
 (venv) C:\Users\User\Desktop\bonus task>python script.py
 ======================================================================
 DATA PIPELINE: Wikipedia Countries → Kafka
@@ -75,7 +74,7 @@ To consume messages from Kafka:
   kafka-console-consumer.sh --bootstrap-server localhost:9092 \
     --topic bonus_23B030310 --from-beginning
 
-2)
+
 (venv) C:\Users\User\Desktop\bonus task>docker ps -a
 CONTAINER ID   IMAGE                                    COMMAND                  CREATED       STATUS                  PORTS                                         NAMES
 6321bf84e9e1   confluentinc/cp-kafka:7.5.0              "/etc/confluent/dock…"   2 hours ago   Up 2 hours              0.0.0.0:9092->9092/tcp, [::]:9092->9092/tcp   0186f8bb7403_bonustask-kafka
@@ -88,7 +87,7 @@ c87a2efd972f   learning-airflow_3cdb78/airflow:latest   "tini -- /entrypoint…"
 62a6dcbab527   postgres:12.6                            "docker-entrypoint.s…"   6 days ago    Up 2 hours              127.0.0.1:5432->5432/tcp                      learning-airflow_3cdb78-postgres-1
 
 
-3){"rank": "World", "country": "8,232,000,000", "population": 100.0, "percentage": null, "date": "UN projection", "source": ""}
+{"rank": "World", "country": "8,232,000,000", "population": 100.0, "percentage": null, "date": "UN projection", "source": ""}
 {"rank": "India", "country": "1,417,492,000", "population": 17.3, "percentage": null, "date": "Official projection", "source": ""}
 {"rank": "China", "country": "1,408,280,000", "population": 17.1, "percentage": null, "date": "Official estimate", "source": ""}
 {"rank": "United States", "country": "340,110,988", "population": 4.1, "percentage": null, "date": "Official estimate", "source": ""}
