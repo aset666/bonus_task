@@ -5,6 +5,7 @@ Wikipedia Countries → Kafka
 URL:
 https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
 The website about countries with their population
+
 Scraping
 I use libraries request and BeautifulSoup
 requests for HTTP requests
@@ -21,6 +22,7 @@ Columns in the table:
 5)date — date of estimate or projection
 6)source — source of data
 Total rows scraped: 240
+
 Data Cleaning Steps
 Removed rows with missing country names (0 rows removed)
 Converted population column to numeric and removed unwanted characters (commas, brackets, citations)
@@ -28,6 +30,7 @@ Converted percentage column to numeric, removed % symbols and citations
 Trimmed whitespace and removed citations from text columns (rank, country, date, source)
 Removed rows with invalid or missing population values (11 rows removed)
 Final dataset contains 229 valid rows
+
 Kafka production i use kafka-python
 topic name bonus_23B030310 my ID
 the process
@@ -43,6 +46,7 @@ Example Kafka Message
   "date": "UN projection",
   "source": ""
 }
+
 I verified messages by consuming the Kafka topic using:
 kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic bonus_23B030310 --from-beginning
 And if you want run the script
