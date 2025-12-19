@@ -57,7 +57,10 @@ airflow standalone
 ```
 
 ---
-📊 Pipeline Workflow (DAGs)JobNameFrequencyResponsibilityJob 1job1_ingestion_dagEvery 1 minPolls TfNSW API and produces messages to Kafka topic.Job 2job2_clean_store_dagHourlyConsumes Kafka, cleans data, and writes to SQLite events.Job 3job3_daily_summary_dagDaily @ 00:00Computes occupancy metrics and writes to daily_summary.
+📊 Pipeline Workflow (DAGs)JobNameFrequencyResponsibility
+Job 1 job1_ingestion_dagEvery 1 minPolls TfNSW API and produces messages to Kafka topic.
+Job 2 job2_clean_store_dagHourlyConsumes Kafka, cleans data, and writes to SQLite events.
+Job 3 job3_daily_summary_dagDaily @ 00:00Computes occupancy metrics and writes to daily_summary.
 
 ```bash
 📂 Project StructurePlaintext.
