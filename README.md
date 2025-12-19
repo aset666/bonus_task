@@ -34,3 +34,58 @@ The pipeline is divided into three automated jobs:
 2.  **Services:** Start Zookeeper and Kafka broker.
 3.  **Airflow:** Run `airflow standalone` or start the scheduler/webserver separately.
 4.  **DAGs:** Unpause `job1_ingestion_dag`, `job2_clean_store_dag`, and `job3_daily_summary_dag`.
+
+---
+
+## 🚀 Quick Start Guide
+
+### 🍎 For macOS (Homebrew)
+1. **Install Dependencies:**
+   ```bash
+   brew install kafka zookeeper
+   pip install -r requirements.txt
+Start Services:
+Terminal 1: zookeeper-server-start /usr/local/etc/kafka/zookeeper.properties
+Terminal 2: kafka-server-start /usr/local/etc/kafka/server.properties
+Setup Airflow:
+      Bash:
+      export AIRFLOW_HOME=$(pwd)/airflow
+      airflow standalone
+
+For Linux (Ubuntu)
+Install Java & Kafka:
+sudo apt update
+sudo apt install default-jdk
+# Download Kafka from official site, extract and cd into folder
+Start Services:
+Terminal 1: bin/zookeeper-server-start.sh config/zookeeper.properties
+Terminal 2: bin/kafka-server-start.sh config/server.properties
+Setup Airflow:
+   Bash:
+   export AIRFLOW_HOME=$(pwd)/airflow
+   pip install apache-airflow pandas kafka-python
+   airflow db init
+   airflow standalone
+
+Pipeline Workflow (DAGs)
+1. Job 1: Real-Time Ingestion (job1_ingestion_dag)
+   Frequency: Every 1 minute.
+   Logic: Polls the TfNSW API for specific facility data and produces messages to the raw_events Kafka topic.
+2.Job 2: Cleaning & Storage (job2_clean_store_dag)
+   Frequency: Hourly.
+   Logic: Consumes raw messages from Kafka. Performs type casting, calculates availability ($Total - Occupancy$), and handles missing values before inserting into SQLite.
+3.Job 3: Daily Analytics (job3_daily_summary_dag)
+   Frequency: Daily at 00:00.
+   Logic: Aggregates transactional data to identify peak occupancy times and average utilization rates per facility.
+
+.
+├── airflow/
+│   └── dags/               # Airflow DAG definitions
+├── src/
+│   ├── job1_producer.py    # API to Kafka logic
+│   ├── job2_cleaner.py     # Kafka to SQLite logic
+│   ├── job3_analytics.py   # SQL Aggregation logic
+│   └── db_utils.py         # Database helpers
+├── data/
+│   └── app.db              # SQLite Database
+└── requirements.txt        # Python dependencies
