@@ -39,22 +39,28 @@ The pipeline is divided into three automated jobs:
 
 
 ## 🚀 Installation & Quick Start
-
-### 🍎 For macOS (Homebrew)
-
 **1. Install Dependencies**
 ```bash
 brew install kafka zookeeper
 pip install -r requirements.txt
-2. Start ServicesTerminal 1: zookeeper-server-start /usr/local/etc/kafka/zookeeper.propertiesTerminal 2: kafka-server-start /usr/local/etc/kafka/server.properties3. Setup AirflowBashexport AIRFLOW_HOME=$(pwd)/airflow
+2. Start ServicesTerminal 1: zookeeper-server-start /usr/local/etc/kafka/zookeeper.propertiesTerminal
+2: kafka-server-start /usr/local/etc/kafka/server.properties3. Setup AirflowBashexport AIRFLOW_HOME=$(pwd)/airflow
 airflow standalone
-🐧 For Linux (Ubuntu)1. Install Java & KafkaBashsudo apt update && sudo apt install default-jdk -y
+🐧 For Linux (Ubuntu)
+1. Install Java & KafkaBashsudo apt update && sudo apt install default-jdk -y
 # Download Kafka from official site, extract and cd into the folder
-2. Start ServicesTerminal 1: bin/zookeeper-server-start.sh config/zookeeper.propertiesTerminal 2: bin/kafka-server-start.sh config/server.properties3. Setup AirflowBashexport AIRFLOW_HOME=$(pwd)/airflow
+2. Start ServicesTerminal 1: bin/zookeeper-server-start.sh config/zookeeper.propertiesTerminal
+2: bin/kafka-server-start.sh config/server.properties3. Setup AirflowBashexport AIRFLOW_HOME=$(pwd)/airflow
 pip install apache-airflow pandas kafka-python
 airflow db init
 airflow standalone
-📊 Pipeline Workflow (DAGs)JobNameFrequencyResponsibilityJob 1job1_ingestion_dagEvery 1 minPolls TfNSW API and produces messages to Kafka topic.Job 2job2_clean_store_dagHourlyConsumes Kafka, cleans data, and writes to SQLite events.Job 3job3_daily_summary_dagDaily @ 00:00Computes occupancy metrics and writes to daily_summary.📂 Project StructurePlaintext.
+```
+
+---
+📊 Pipeline Workflow (DAGs)JobNameFrequencyResponsibilityJob 1job1_ingestion_dagEvery 1 minPolls TfNSW API and produces messages to Kafka topic.Job 2job2_clean_store_dagHourlyConsumes Kafka, cleans data, and writes to SQLite events.Job 3job3_daily_summary_dagDaily @ 00:00Computes occupancy metrics and writes to daily_summary.
+
+```bash
+📂 Project StructurePlaintext.
 ├── airflow/
 │   └── dags/               # Airflow DAG definitions
 ├── src/
